@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente estoy trabajando en [CeliaCity](https://github.com/abdell1999/CeliaCity)
 
-- 🌱 Estoy aprendiendo **Angular**
+- 🌱 Estoy aprendiendo [Angular](https://github.com/abdell1999/angularexample)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
