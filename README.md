@@ -1,13 +1,12 @@
 <h1 align="center">Buenas 👋, soy Abdellah</h1>
-<h3 align="center">Actualmente estoy en el último curso de Técnico Superior en Desarrollo de Aplicaciones Web.</h3>
+<h3 align="center">Desarrollo de Aplicaciones Web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdell1999&label=Profile%20views&color=0e75b6&style=flat" alt="abdell1999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdell1999" alt="abdell1999" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [CeliaCity](https://github.com/abdell1999/CeliaCity)
+- 🔭 Actualmente estoy trabajando en mejorar [CeliaCity](https://github.com/abdell1999/CeliaCity)
 
-- 🌱 Estoy aprendiendo [Angular](https://github.com/abdell1999/angularexample)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
