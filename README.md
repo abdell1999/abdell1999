@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdell1999&label=Profile%20views&color=0e75b6&style=flat" alt="abdell1999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdell1999" alt="abdell1999" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?abdell1999=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 Actualmente estoy trabajando en mejorar [CeliaCity](https://github.com/abdell1999/CeliaCity)
 
