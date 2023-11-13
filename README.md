@@ -5,8 +5,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdell1999&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 Actualmente estoy trabajando en mejorar [CeliaCity](https://celiacity.es).
-- 🌱 Estoy mejorando habilidades en Laravel y Angular.
+- 💬 Actualmente estoy trabajando en mejorar [CeliaCity](https://celiacity.es).
+- 💬 Estoy mejorando habilidades en Laravel y Angular.
+- 💬 Estoy trabajando en mejorar mis habilidades generales de front.
 - 💬 Estoy interesado en aprender NestJS y React.
 
 
