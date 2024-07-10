@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdell1999&show_icons=true&locale=en" alt="abdell1999" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdell1999&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdell1999&border_radius=5.6&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
