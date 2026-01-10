@@ -1,39 +1,45 @@
-<h1 align="center">Hola 👋, soy Abdellah</h1>
-<h3 align="center">Soy desarrollador web full stack</h3>
+<h1 align="center">Abdellah</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdell1999&label=Profile%20views&color=0e75b6&style=flat" alt="abdell1999" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdell1999" alt="abdell1999" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdell1999&label=PROFILE%20VIEWS&color=333333&style=for-the-badge" alt="abdell1999" />
+</p>
 
 <br>
+
+<p align="center">
+  <b>Ingeniero de Software especializado en el ciclo de vida completo del desarrollo.</b>
+  <br><br>
+  Transformo requisitos complejos en soluciones desplegadas y estables. Mi perfil abarca desde el <b>análisis de requisitos y diseño de arquitectura</b>, hasta la implementación, <b>testing exhaustivo</b> y soporte en producción.
+  <br><br>
+  Mi stack principal actual gira en torno a <b>Nuxt, Laravel y Angular</b>, respaldado por una sólida experiencia en CMS (WordPress/PrestaShop) y metodologías ágiles.
+</p>
+
 <br>
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<h3 align="center">I+D & Arquitectura</h3>
+
+<p align="center">
+  Más allá del desarrollo comercial, dedico mis laboratorios personales a explorar nuevas fronteras tecnológicas para optimizar mis flujos de trabajo:
 </p>
 
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-</p>
-
-<p align="left">
-  <a style="text-decoration: none!important;" href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="nuxt" width="40" height="40"/> </a><a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a><a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/> </a>
-</p>
-
-<p align="left"> 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a><a href="https://phpunit.de/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/373974/phpunit.svg" alt="phpunit" width="40" height="40"/> </a>
-</p>
-
-<p align="left">
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-</p>
-
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>    </p>
-
-
+- 🤖 **Inteligencia Artificial:** Experimentación e integración de modelos de IA en flujos de desarrollo.
+- 🏗️ **Arquitectura Limpia:** Obsesionado con el código desacoplado, escalable y mantenible (*Clean Architecture*).
+- 🖥️ **Desktop-Web Hybrids:** Desarrollo de aplicaciones de escritorio utilizando tecnologías web modernas (Electron).
+- ⚙️ **Automatización:** Creación de scripts y herramientas para eliminar tareas repetitivas y mejorar la eficiencia del *pipeline*.
 
 <br>
-<br>
 
-<a href="https://streak-stats.demolab.com/?user=abdell1999&theme=dark&locale=es&exclude_days=Sun%2CSat" target="_blank"><img src="https://streak-stats.demolab.com/?user=abdell1999&theme=dark&locale=es&exclude_days=Sun%2CSat" alt="Estadísticas"></a>
+<h3 align="center">Stack Tecnológico</h3>
+
+<div align="center">
+
+| Core & Frontend | Backend & E-commerce | Testing & Infra |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=nuxt,angular,ts,js" /><br><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind" /> | <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres" /><br><img src="https://skillicons.dev/icons?i=wordpress,bholu" /> | <img src="https://skillicons.dev/icons?i=docker,linux,git,electron" /><br><img src="https://skillicons.dev/icons?i=jest,vitest" /> |
+
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/CMS-PrestaShop-FK?style=flat&logo=prestashop&logoColor=white&color=DF0067" alt="Prestashop"/>
+  <img src="https://img.shields.io/badge/CMS-WordPress-FK?style=flat&logo=wordpress&logoColor=white&color=21759B" alt="WordPress"/>
+</p>
