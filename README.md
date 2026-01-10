@@ -1,5 +1,5 @@
 <h1 align="center">Abdellah</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Desarrollador Web Full Stack</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdell1999&label=PROFILE%20VIEWS&color=333333&style=for-the-badge" alt="abdell1999" />
@@ -8,25 +8,25 @@
 <br>
 
 <p align="center">
-  <b>Ingeniero de Software especializado en el ciclo de vida completo del desarrollo.</b>
+  <b>Desarrollador especializado en soluciones integrales y arquitectura eficiente.</b>
   <br><br>
-  Transformo requisitos complejos en soluciones desplegadas y estables. Mi perfil abarca desde el <b>análisis de requisitos y diseño de arquitectura</b>, hasta la implementación, <b>testing exhaustivo</b> y soporte en producción.
+  Gestiono el ciclo de vida completo del desarrollo: desde el análisis de requisitos y la arquitectura, hasta la implementación, testing y soporte final. Mi enfoque actual prioriza la <b>eficiencia y la escalabilidad</b>, desarrollando <b>librerías propias y módulos reutilizables</b> para optimizar los flujos de trabajo y garantizar la calidad del código entre proyectos.
   <br><br>
-  Mi stack principal actual gira en torno a <b>Nuxt, Laravel y Angular</b>, respaldado por una sólida experiencia en CMS (WordPress/PrestaShop) y metodologías ágiles.
+  Trabajo principalmente con <b>Nuxt, Laravel y Angular</b>, integrando prácticas de automatización y CI/CD.
 </p>
 
 <br>
 
-<h3 align="center">I+D & Arquitectura</h3>
+<h3 align="center">Enfoque & Aprendizaje (I+D)</h3>
 
 <p align="center">
-  Más allá del desarrollo comercial, dedico mis laboratorios personales a explorar nuevas fronteras tecnológicas para optimizar mis flujos de trabajo:
+  En mis proyectos personales exploro tecnologías emergentes para aplicar mejoras en mis entornos de producción:
 </p>
 
-- 🤖 **Inteligencia Artificial:** Experimentación e integración de modelos de IA en flujos de desarrollo.
-- 🏗️ **Arquitectura Limpia:** Obsesionado con el código desacoplado, escalable y mantenible (*Clean Architecture*).
-- 🖥️ **Desktop-Web Hybrids:** Desarrollo de aplicaciones de escritorio utilizando tecnologías web modernas (Electron).
-- ⚙️ **Automatización:** Creación de scripts y herramientas para eliminar tareas repetitivas y mejorar la eficiencia del *pipeline*.
+- 🧱 **Arquitectura Modular:** Creación de librerías agnósticas y reutilizables para acelerar el desarrollo.
+- 🤖 **Inteligencia Artificial:** Implementación de IA para automatización y análisis.
+- 💻 **Desktop-Web Hybrids:** Desarrollo de aplicaciones de escritorio con tecnologías web (Electron).
+- 🧹 **Clean Architecture:** Obsesión por el código limpio, desacoplado y testearble.
 
 <br>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-| Core & Frontend | Backend & E-commerce | Testing & Infra |
+| Frontend & Core | Backend & E-commerce | Herramientas & Infra |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=nuxt,angular,ts,js" /><br><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind" /> | <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres" /><br><img src="https://skillicons.dev/icons?i=wordpress,bholu" /> | <img src="https://skillicons.dev/icons?i=docker,linux,git,electron" /><br><img src="https://skillicons.dev/icons?i=jest,vitest" /> |
 
