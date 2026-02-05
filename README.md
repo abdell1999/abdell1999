@@ -26,7 +26,7 @@
 - 🧱 **Arquitectura Modular:** Creación de librerías agnósticas y reutilizables para acelerar el desarrollo.
 - 🤖 **Inteligencia Artificial:** Implementación de IA para automatización y análisis.
 - 💻 **Desktop-Web Hybrids:** Desarrollo de aplicaciones de escritorio con tecnologías web (Electron).
-- 🧹 **Clean Architecture:** Obsesión por el código limpio, desacoplado y testearble.
+- 🧹 **Clean Architecture:** Obsesión por el código limpio, desacoplado y testeable.
 
 <br>
 
