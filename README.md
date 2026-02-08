@@ -1,4 +1,6 @@
-<h1 align="center">Abdellah</h1>
+<div align="center">
+  <img src="profile.gif" alt="Abdellah" width="100%" />
+</div>
 <h3 align="center">Desarrollador Web Full Stack</h3>
 
 <p align="center">
