@@ -32,16 +32,68 @@
 
 <br>
 
+<h3 align="center">🚀 Proyectos & Herramientas</h3>
+
+<p align="center">
+  <i>"En mi tiempo libre desarrollo herramientas que facilitan la vida; soluciones funcionales nacidas de necesidades reales."</i>
+</p>
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🎙️ Simple TTS</h3>
+      <p><i>Tu lector de texto a voz minimalista y eficiente.</i></p>
+      <br>
+      <a href="https://abdell1999.github.io/simpletts-landing/" target="_blank">
+        <img src="https://img.shields.io/badge/Website-Landing_Page-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
+      </a>
+      &nbsp;
+      <a href="https://chromewebstore.google.com/detail/simple-tts/mnnhakddcadkcichdgimoennpkfkcalk" target="_blank">
+        <img src="https://img.shields.io/badge/Chrome_Store-Download-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
 <h3 align="center">Stack Tecnológico</h3>
 
 <div align="center">
 
-| Frontend & Core | Backend & E-commerce | Herramientas & Infra |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=nuxt,angular,ts,js" /><br><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind" /> | <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgres" /><br><img src="https://skillicons.dev/icons?i=wordpress,bholu" /> | <img src="https://skillicons.dev/icons?i=docker,linux,git,electron" /><br><img src="https://skillicons.dev/icons?i=jest,vitest" /> |
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Frontend & Lenguajes</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,nuxt,angular,tailwind" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🗄️ Backend & Data</h3>
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛒 CMS & E-commerce</h3>
+      <br>
+      <a href="https://wordpress.org/" target="_blank">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+      </a>
+      <a href="https://www.prestashop.com/" target="_blank">
+        <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop"/>
+      </a>
+      <br><br>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛠️ Tools & DevOps</h3>
+        <img src="https://skillicons.dev/icons?i=docker,git,linux,electron,jest,vitest" />
+    </td>
+  </tr>
+</table>
 
 </div>
-<p align="center">
-  <img src="https://img.shields.io/badge/CMS-PrestaShop-FK?style=flat&logo=prestashop&logoColor=white&color=DF0067" alt="Prestashop"/>
-  <img src="https://img.shields.io/badge/CMS-WordPress-FK?style=flat&logo=wordpress&logoColor=white&color=21759B" alt="WordPress"/>
-</p>
