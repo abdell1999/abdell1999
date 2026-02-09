@@ -56,6 +56,17 @@
       <br><br>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <h3>👍 YouTube Shorts Like Shortcut</h3>
+      <p><i>Simula el atajo de TikTok haciendo que des like a un short al pulsar "L".</i></p>
+      <br>
+      <a href="https://chromewebstore.google.com/detail/youtube-shorts-like-short/lcpkmnlnllegnfhanjoeeejmnhgpnclm" target="_blank">
+        <img src="https://img.shields.io/badge/Chrome_Store-Download-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
+      </a>
+      <br><br>
+    </td>
+  </tr>
 </table>
 
 </div>
