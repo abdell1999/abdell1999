@@ -22,13 +22,15 @@
 <h3 align="center">Enfoque & Aprendizaje (I+D)</h3>
 
 <p align="center">
-  En mis proyectos personales exploro tecnologías emergentes para aplicar mejoras en mis entornos de producción:
+  Combino la exploración de nuevas tecnologías con la resolución de problemas reales, enfocándome en la eficiencia y la calidad del software:
 </p>
 
-- 🧱 **Arquitectura Modular:** Creación de librerías agnósticas y reutilizables para acelerar el desarrollo.
-- 🤖 **Inteligencia Artificial:** Implementación de IA para automatización y análisis.
-- 💻 **Desktop-Web Hybrids:** Desarrollo de aplicaciones de escritorio con tecnologías web (Electron).
-- 🧹 **Clean Architecture:** Obsesión por el código limpio, desacoplado y testeable.
+- � **Desarrollo de Extensiones:** Creación de soluciones para navegador orientadas a automatizar tareas y mejorar la productividad personal y profesional.
+- 🛠️ **Ecosistema WordPress:** Desarrollo avanzado de **temas y plugins personalizados**, priorizando el rendimiento y la integración de funcionalidades complejas.
+- � **Refactorización & Legacy Code:** Experiencia en la **modernización de sistemas heredados**, aplicando estrategias de refactorización progresiva para reducir la deuda técnica.
+- � **Arquitectura Modular:** Diseño de librerías agnósticas y componentes reutilizables para estandarizar y acelerar el desarrollo.
+- 🤖 **Integración Pragmática de IA:** Uso de IA como copiloto para plantear arquitecturas, validar lógica y automatizar tareas repetitivas, manteniendo siempre el control de la calidad.
+- 🌐 **Accesibilidad & SEO:** Desarrollo web consciente, aplicando buenas prácticas de **Accesibilidad y SEO técnico básico** para garantizar sitios usables e indexables.
 
 <br>
 
