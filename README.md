@@ -75,6 +75,8 @@
 
 <br>
 
+
+
 <h3 align="center">Stack Tecnológico</h3>
 
 <div align="center">
@@ -108,5 +110,16 @@
     </td>
   </tr>
 </table>
+
+
+<h3 align="center">🧊 Punta del Iceberg</h3>
+
+<p align="center">
+  <b>Lo que ves en este perfil público es solo una pequeña fracción de mi trabajo.</b>
+  <br>
+  La mayor parte de mis desarrollos más complejos, arquitecturas empresariales y sistemas de producción residen en <b>repositorios privados</b>.
+</p>
+
+<br>
 
 </div>
