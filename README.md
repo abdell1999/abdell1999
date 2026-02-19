@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Abdellah&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Web%20Full%20Stack&descSize=18&descColor=58A6FF&descAlignY=55&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
   <img src="profile.gif" alt="Abdellah" width="100%" />
 </div>
 
@@ -8,12 +12,12 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=Desarrollador+Web+Full+Stack+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Full+Stack+Developer+%F0%9F%9A%80;Nuxt+%C2%B7+Laravel+%C2%B7+Angular;Arquitectura+Eficiente+%26+Escalable" alt="Typing SVG" />
   </a>
 
-  <br>
+  <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=abdell1999&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="abdell1999" />
+  <img src="https://komarev.com/ghpvc/?username=abdell1999&label=PROFILE+VIEWS&color=58A6FF&style=flat-square" alt="abdell1999" />
 
 </div>
 
@@ -31,19 +35,27 @@
 
 <div align="center">
 
-  <samp>
-    <b>Desarrollador especializado en soluciones integrales y arquitectura eficiente.</b>
-    <br><br>
+  <h3>💡 Desarrollador especializado en soluciones integrales y arquitectura eficiente.</h3>
+
+  <p>
     Gestiono el ciclo de vida completo del desarrollo: desde el análisis de requisitos y la arquitectura,
     <br>
     hasta la implementación, testing y soporte final.
-    <br><br>
+  </p>
+
+  <p>
     Mi enfoque actual prioriza la <b>eficiencia y la escalabilidad</b>, desarrollando <b>librerías propias
     <br>
     y módulos reutilizables</b> para optimizar los flujos de trabajo y garantizar la calidad del código.
-    <br><br>
-    Trabajo principalmente con <b>Nuxt, Laravel y Angular</b>, integrando prácticas de automatización y CI/CD.
-  </samp>
+  </p>
+
+  <p>
+    Trabajo principalmente con
+    <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+    integrando prácticas de automatización y CI/CD.
+  </p>
 
 </div>
 
@@ -59,9 +71,9 @@
 
 <h2 align="center">🔬 Enfoque & Aprendizaje (I+D)</h2>
 
-<div align="center">
-  <samp>Combino la exploración de nuevas tecnologías con la resolución de problemas reales</samp>
-</div>
+<p align="center">
+  <i>Combino la exploración de nuevas tecnologías con la resolución de problemas reales.</i>
+</p>
 
 <br>
 
@@ -104,9 +116,9 @@
 
 <h2 align="center">🚀 Proyectos & Herramientas</h2>
 
-<div align="center">
-  <samp><i>"En mi tiempo libre desarrollo herramientas que facilitan la vida; soluciones funcionales nacidas de necesidades reales."</i></samp>
-</div>
+<p align="center">
+  <i>"En mi tiempo libre desarrollo herramientas que facilitan la vida; soluciones funcionales nacidas de necesidades reales."</i>
+</p>
 
 <br>
 
@@ -117,7 +129,7 @@
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-🎙️_Simple_TTS-1a1b27?style=for-the-badge" alt="Simple TTS"/>
       <br><br>
-      <samp>Tu lector de texto a voz minimalista y eficiente.</samp>
+      <i>Tu lector de texto a voz minimalista y eficiente.</i>
       <br><br>
       <a href="https://abdell1999.github.io/simpletts-landing/" target="_blank">
         <img src="https://img.shields.io/badge/🌐_Website-Landing_Page-2ea44f?style=for-the-badge" alt="Website"/>
@@ -130,7 +142,7 @@
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/-👍_YT_Shorts_Like_Shortcut-1a1b27?style=for-the-badge" alt="YT Shorts Like"/>
       <br><br>
-      <samp>Dale like a un Short pulsando "L", como en TikTok.</samp>
+      <i>Dale like a un Short pulsando "L", como en TikTok.</i>
       <br><br>
       <a href="https://chromewebstore.google.com/detail/youtube-shorts-like-short/lcpkmnlnllegnfhanjoeeejmnhgpnclm" target="_blank">
         <img src="https://img.shields.io/badge/🧩_Chrome_Store-Download-4285F4?style=for-the-badge" alt="Chrome Store"/>
@@ -217,12 +229,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdell1999&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="90%" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdell1999&theme=tokyonight" alt="Profile Details" width="90%" />
 </div>
 
@@ -254,15 +260,13 @@
 
 <h2 align="center">🧊 Punta del Iceberg</h2>
 
-<div align="center">
-  <samp>
-    <b>Lo que ves en este perfil público es solo una pequeña fracción de mi trabajo.</b>
-    <br>
-    La mayor parte de mis desarrollos más complejos, arquitecturas empresariales
-    <br>
-    y sistemas de producción residen en <b>repositorios privados</b>.
-  </samp>
-</div>
+<p align="center">
+  <b>Lo que ves en este perfil público es solo una pequeña fracción de mi trabajo.</b>
+  <br>
+  La mayor parte de mis desarrollos más complejos, arquitecturas empresariales
+  <br>
+  y sistemas de producción residen en <b>repositorios privados</b>.
+</p>
 
 <br>
 
