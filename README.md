@@ -149,6 +149,22 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <img src="https://img.shields.io/badge/-📖_Ebook_Reader-1a1b27?style=for-the-badge" alt="Ebook Reader"/>
+      <br><br>
+      <i>Un lector de epubs/pdfs moderno híbrido (web y escritorio).</i>
+      <br><br>
+      <a href="https://abdell1999.github.io/ebook-reader-public/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐_Versión_Web-Acceder-2ea44f?style=for-the-badge" alt="Web Version"/>
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/💻_App_Escritorio-Pendiente-8a8a8a?style=for-the-badge" alt="Desktop Pending"/>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
 </table>
 
 </div>
