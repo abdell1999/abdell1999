@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=180&section=header&text=Abdellah&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Web%20Full%20Stack&descSize=18&descColor=58A6FF&descAlignY=55&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
   <img src="profile.gif" alt="Abdellah" width="100%" />
 </div>
 
@@ -10,12 +6,11 @@
 
 <div align="center">
 
-  <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Full+Stack+Developer+%F0%9F%9A%80;Nuxt+%C2%B7+Laravel+%C2%B7+Angular;Arquitectura+Eficiente+%26+Escalable" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Full+Stack+Developer+%F0%9F%9A%80;Nuxt+%C2%B7+Laravel+%C2%B7+Angular;Clean+Architecture+%26+Scalable+Systems" alt="Typing SVG" />
   </a>
 
-  <br><br>
+<br><br>
 
   <img src="https://komarev.com/ghpvc/?username=abdell1999&label=PROFILE+VIEWS&color=58A6FF&style=flat-square" alt="abdell1999" />
 
@@ -23,30 +18,24 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
+---
 
 <br>
 
 <div align="center">
 
-  <h3>💡 Desarrollador especializado en soluciones integrales y arquitectura eficiente.</h3>
+  <h3>Desarrollador especializado en soluciones integrales y arquitectura eficiente.</h3>
 
   <p>
     Gestiono el ciclo de vida completo del desarrollo: desde el análisis de requisitos y la arquitectura,
     <br>
-    hasta la implementación, testing y soporte final.
+    hasta la implementación, testing y despliegue.
   </p>
 
   <p>
-    Mi enfoque actual prioriza la <b>eficiencia y la escalabilidad</b>, desarrollando <b>librerías propias
+    Mi enfoque prioriza la <b>eficiencia y la escalabilidad</b>, desarrollando <b>librerías propias
     <br>
-    y módulos reutilizables</b> para optimizar los flujos de trabajo y garantizar la calidad del código.
+    y módulos reutilizables</b> para optimizar flujos de trabajo y garantizar la calidad del código.
   </p>
 
   <p>
@@ -61,26 +50,18 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🔬 Enfoque & Aprendizaje (I+D)</h2>
-
-<p align="center">
-  <i>Combino la exploración de nuevas tecnologías con la resolución de problemas reales.</i>
-</p>
+<h2 align="center">🔬 Enfoque & Especialización</h2>
 
 <br>
 
 <table align="center">
   <tr>
     <td>🧩</td>
-    <td><b>Desarrollo de Extensiones</b> — Soluciones para navegador orientadas a automatizar tareas y mejorar la productividad.</td>
+    <td><b>Extensiones de Navegador</b> — Soluciones orientadas a automatizar tareas y mejorar la productividad.</td>
   </tr>
   <tr>
     <td>🛠️</td>
@@ -96,28 +77,24 @@
   </tr>
   <tr>
     <td>🤖</td>
-    <td><b>Integración Pragmática de IA</b> — IA como copiloto para arquitectura, validación y automatización.</td>
+    <td><b>Integración de IA</b> — IA como herramienta para arquitectura, validación y automatización.</td>
   </tr>
   <tr>
     <td>🌐</td>
-    <td><b>Accesibilidad & SEO</b> — Desarrollo web consciente con buenas prácticas de accesibilidad y SEO técnico.</td>
+    <td><b>Accesibilidad & SEO</b> — Desarrollo web con buenas prácticas de accesibilidad y SEO técnico.</td>
   </tr>
 </table>
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🚀 Proyectos & Herramientas</h2>
+<h2 align="center">🚀 Proyectos Destacados</h2>
 
 <p align="center">
-  <i>"En mi tiempo libre desarrollo herramientas que facilitan la vida; soluciones funcionales nacidas de necesidades reales."</i>
+  Herramientas funcionales nacidas de necesidades reales.
 </p>
 
 <br>
@@ -127,42 +104,42 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-🎙️_Simple_TTS-1a1b27?style=for-the-badge" alt="Simple TTS"/>
-      <br><br>
-      <i>Tu lector de texto a voz minimalista y eficiente.</i>
-      <br><br>
+      <h3>🎙️ Simple TTS</h3>
+      <p><i>Lector de texto a voz minimalista y eficiente.</i></p>
       <a href="https://abdell1999.github.io/simpletts-landing/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Website-Landing_Page-2ea44f?style=for-the-badge" alt="Website"/>
+        <img src="https://img.shields.io/badge/Web_Landing-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
       </a>
-      <br>
       <a href="https://chromewebstore.google.com/detail/simple-tts/mnnhakddcadkcichdgimoennpkfkcalk" target="_blank">
-        <img src="https://img.shields.io/badge/🧩_Chrome_Store-Download-4285F4?style=for-the-badge" alt="Chrome Store"/>
+        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/-👍_YT_Shorts_Like_Shortcut-1a1b27?style=for-the-badge" alt="YT Shorts Like"/>
-      <br><br>
-      <i>Dale like a un Short pulsando "L", como en TikTok.</i>
-      <br><br>
+      <h3>👍 YT Shorts Like</h3>
+      <p><i>Dale like a un Short pulsando "L", como en TikTok.</i></p>
+      <br>
       <a href="https://chromewebstore.google.com/detail/youtube-shorts-like-short/lcpkmnlnllegnfhanjoeeejmnhgpnclm" target="_blank">
-        <img src="https://img.shields.io/badge/🧩_Chrome_Store-Download-4285F4?style=for-the-badge" alt="Chrome Store"/>
+        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <br>
-      <img src="https://img.shields.io/badge/-📖_Ebook_Reader-1a1b27?style=for-the-badge" alt="Ebook Reader"/>
-      <br><br>
-      <i>Un lector de epubs/pdfs moderno híbrido (web y escritorio).</i>
-      <br><br>
+      <h3>📖 Ebook Reader</h3>
+      <p><i>Lector de ePubs/PDFs híbrido (web y escritorio).</i></p>
       <a href="https://abdell1999.github.io/ebook-reader-public/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Versión_Web-Acceder-2ea44f?style=for-the-badge" alt="Web Version"/>
+        <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
       </a>
-      <br>
-      <img src="https://img.shields.io/badge/💻_App_Escritorio-Pendiente-8a8a8a?style=for-the-badge" alt="Desktop Pending"/>
+      <img src="https://img.shields.io/badge/App_Escritorio-Próximamente-8a8a8a?style=for-the-badge&logo=electron&logoColor=white" alt="Desktop Pending"/>
     </td>
     <td align="center" width="50%">
+      <br>
+      <h3>🔧 Otros Proyectos</h3>
+      <p><i>Desarrollando herramientas de forma constante.</i></p>
+      <br>
+      <a href="https://github.com/abdell1999?tab=repositories" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -171,13 +148,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2 align="center">⚡ Stack Tecnológico</h2>
 
@@ -188,7 +161,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>💻 Frontend & Lenguajes</h3>
+      <h3>💻 Frontend</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass&theme=dark" />
       <br><br>
@@ -196,7 +169,7 @@
       <br><br>
     </td>
     <td align="center" width="50%">
-      <h3>🗄️ Backend & Data</h3>
+      <h3>🗄️ Backend & Bases de Datos</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
       <br><br>
@@ -218,7 +191,7 @@
       <br><br>
     </td>
     <td align="center" width="50%">
-      <h3>🛠️ Tools & DevOps</h3>
+      <h3>🛠️ Herramientas & DevOps</h3>
       <br>
       <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
       <br><br>
@@ -232,13 +205,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 <br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -266,30 +235,32 @@
 
 <br>
 
+---
+
+<br>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+  <h3>📬 ¿Hablamos?</h3>
+
+  <p>
+    La mayor parte de mis desarrollos residen en <b>repositorios privados</b>.
+    <br>
+    Si quieres saber más sobre mi trabajo o colaborar, no dudes en contactarme.
+  </p>
+
+  <a href="https://github.com/abdell1999" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-abdell1999-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abdull26071999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdull26071999@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🧊 Punta del Iceberg</h2>
-
-<p align="center">
-  <b>Lo que ves en este perfil público es solo una pequeña fracción de mi trabajo.</b>
-  <br>
-  La mayor parte de mis desarrollos más complejos, arquitecturas empresariales
-  <br>
-  y sistemas de producción residen en <b>repositorios privados</b>.
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer" width="100%" />
-
 </div>
