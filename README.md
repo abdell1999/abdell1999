@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="profile.gif" alt="Abdellah" width="100%" />
 </div>
 
@@ -133,6 +133,16 @@
       <img src="https://img.shields.io/badge/App_Escritorio-Próximamente-8a8a8a?style=for-the-badge&logo=electron&logoColor=white" alt="Desktop Pending"/>
     </td>
     <td align="center" width="50%">
+      <br>
+      <h3>🔒 Cipher</h3>
+      <p><i>Encriptador de texto y archivos seguro y eficiente.</i></p>
+      <a href="https://abdell1999.github.io/cipher-public/" target="_blank">
+        <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <br>
       <h3>🔧 Otros Proyectos</h3>
       <p><i>Desarrollando herramientas de forma constante.</i></p>
