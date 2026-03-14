@@ -126,11 +126,10 @@
     <td align="center" width="50%">
       <br>
       <h3>📖 Ebook Reader</h3>
-      <p><i>Lector de ePubs/PDFs híbrido (web y escritorio).</i></p>
+      <p><i>Lector de ePubs/PDFs híbrido (PWA).</i></p>
       <a href="https://abdell1999.github.io/ebook-reader-public/" target="_blank">
         <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
       </a>
-      <img src="https://img.shields.io/badge/App_Escritorio-Próximamente-8a8a8a?style=for-the-badge&logo=electron&logoColor=white" alt="Desktop Pending"/>
     </td>
     <td align="center" width="50%">
       <br>
