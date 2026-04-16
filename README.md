@@ -7,7 +7,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Full+Stack+Developer+%F0%9F%9A%80;Nuxt+%C2%B7+Laravel+%C2%B7+Angular;Clean+Architecture+%26+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Nuxt+%C2%B7+Laravel+%C2%B7+Angular;Arquitectura+Limpia+%26+Sistemas+Escalables" alt="Typing SVG" />
   </a>
 
 <br><br>
@@ -40,7 +40,7 @@
 
   <p>
     Trabajo principalmente con
-    <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt"/>
+    <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt"/>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
     integrando prácticas de automatización y CI/CD.
@@ -54,33 +54,33 @@
 
 <br>
 
-<h2 align="center">🔬 Enfoque & Especialización</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide:microscope.svg?color=%2358A6FF" width="32" align="center" /> Enfoque & Especialización</h2>
 
 <br>
 
 <table align="center">
   <tr>
-    <td>🧩</td>
+    <td><img src="https://api.iconify.design/lucide:puzzle.svg?color=%2358A6FF" width="24" align="center" /></td>
     <td><b>Extensiones de Navegador</b> — Soluciones orientadas a automatizar tareas y mejorar la productividad.</td>
   </tr>
   <tr>
-    <td>🛠️</td>
+    <td><img src="https://api.iconify.design/lucide:wrench.svg?color=%2358A6FF" width="24" align="center" /></td>
     <td><b>Ecosistema WordPress</b> — Desarrollo avanzado de temas y plugins personalizados, priorizando rendimiento.</td>
   </tr>
   <tr>
-    <td>🔄</td>
+    <td><img src="https://api.iconify.design/lucide:refresh-cw.svg?color=%2358A6FF" width="24" align="center" /></td>
     <td><b>Refactorización & Legacy Code</b> — Modernización de sistemas heredados con refactorización progresiva.</td>
   </tr>
   <tr>
-    <td>📦</td>
+    <td><img src="https://api.iconify.design/lucide:package.svg?color=%2358A6FF" width="24" align="center" /></td>
     <td><b>Arquitectura Modular</b> — Diseño de librerías agnósticas y componentes reutilizables.</td>
   </tr>
   <tr>
-    <td>🤖</td>
+    <td><img src="https://api.iconify.design/lucide:bot.svg?color=%2358A6FF" width="24" align="center" /></td>
     <td><b>Integración de IA</b> — IA como herramienta para arquitectura, validación y automatización.</td>
   </tr>
   <tr>
-    <td>🌐</td>
+    <td><img src="https://api.iconify.design/lucide:globe.svg?color=%2358A6FF" width="24" align="center" /></td>
     <td><b>Accesibilidad & SEO</b> — Desarrollo web con buenas prácticas de accesibilidad y SEO técnico.</td>
   </tr>
 </table>
@@ -91,10 +91,10 @@
 
 <br>
 
-<h2 align="center">🚀 Proyectos Destacados</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide:rocket.svg?color=%2358A6FF" width="32" align="center" /> Proyectos Destacados</h2>
 
 <p align="center">
-  Herramientas funcionales nacidas de necesidades reales.
+  Herramientas de uso privado y accesibles, desarrolladas para resolver necesidades reales.
 </p>
 
 <br>
@@ -104,18 +104,18 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🎙️ Simple TTS</h3>
-      <p><i>Lector de texto a voz minimalista y eficiente.</i></p>
+      <h3><img src="https://api.iconify.design/lucide:mic.svg?color=%2358A6FF" width="28" align="center" /> Simple TTS</h3>
+      <p><i>Extensión de navegador con tecnología de texto a voz (TTS) para lectura automatizada. Minimalista y eficiente.</i></p>
       <a href="https://abdell1999.github.io/simpletts-landing/" target="_blank">
-        <img src="https://img.shields.io/badge/Web_Landing-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+        <img src="https://img.shields.io/badge/Presentación_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
       </a>
       <a href="https://chromewebstore.google.com/detail/simple-tts/mnnhakddcadkcichdgimoennpkfkcalk" target="_blank">
         <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>👍 YT Shorts Like</h3>
-      <p><i>Dale like a un Short pulsando "L", como en TikTok.</i></p>
+      <h3><img src="https://api.iconify.design/lucide:thumbs-up.svg?color=%2358A6FF" width="28" align="center" /> YT Shorts Like</h3>
+      <p><i>Extensión para darle like a un Short pulsando "L", replicando el comportamiento de TikTok en YouTube.</i></p>
       <br>
       <a href="https://chromewebstore.google.com/detail/youtube-shorts-like-short/lcpkmnlnllegnfhanjoeeejmnhgpnclm" target="_blank">
         <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
@@ -125,16 +125,16 @@
   <tr>
     <td align="center" width="50%">
       <br>
-      <h3>📖 Ebook Reader</h3>
-      <p><i>Lector de libros electrónicos híbrido (PWA).</i></p>
+      <h3><img src="https://api.iconify.design/lucide:book-open.svg?color=%2358A6FF" width="28" align="center" /> Ebook Reader</h3>
+      <p><i>Lector de libros basado en tecnología web con soporte para múltiples formatos y funciones avanzadas.</i></p>
       <a href="https://abdell1999.github.io/ebook-reader-public/" target="_blank">
         <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
       </a>
     </td>
     <td align="center" width="50%">
       <br>
-      <h3>🔒 Cipher</h3>
-      <p><i>Encriptador de texto y archivos seguro y eficiente.</i></p>
+      <h3><img src="https://api.iconify.design/lucide:lock.svg?color=%2358A6FF" width="28" align="center" /> Cipher</h3>
+      <p><i>Herramienta para cifrar texto y archivos (admitido por lotes) usando criptografía asimétrica (clave pública y privada). Incluye esteganografía, destrucción del archivo original y edición/eliminación de metadatos.</i></p>
       <a href="https://abdell1999.github.io/cipher-public/" target="_blank">
         <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
       </a>
@@ -143,16 +143,16 @@
   <tr>
     <td align="center" width="50%">
       <br>
-      <h3>🖼️ Image Tools</h3>
-      <p><i>Herramienta para editar imágenes de forma sencilla.</i></p>
+      <h3><img src="https://api.iconify.design/lucide:image.svg?color=%2358A6FF" width="28" align="center" /> Image Tools</h3>
+      <p><i>Editor de imágenes basado en tecnologías web e integración de IA. Entorno 100% privado de ejecución local (ningún dato o imagen sale de tu máquina).</i></p>
       <a href="https://abdell1999.github.io/image-tools-public/" target="_blank">
         <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
       </a>
     </td>
     <td align="center" width="50%">
       <br>
-      <h3>🔧 Otros Proyectos</h3>
-      <p><i>Desarrollando herramientas de forma constante.</i></p>
+      <h3><img src="https://api.iconify.design/lucide:briefcase.svg?color=%2358A6FF" width="28" align="center" /> Otros Proyectos</h3>
+      <p><i>Herramientas desarrolladas constantemente, manteniendo foco en la privacidad y soluciones locales sostenibles.</i></p>
       <br>
       <a href="https://github.com/abdell1999?tab=repositories" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
@@ -169,7 +169,7 @@
 
 <br>
 
-<h2 align="center">⚡ Stack Tecnológico</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide:zap.svg?color=%2358A6FF" width="32" align="center" /> Stack Tecnológico</h2>
 
 <br>
 
@@ -226,7 +226,7 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"><img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%2358A6FF" width="32" align="center" /> GitHub Stats</h2>
 
 <br>
 
@@ -257,8 +257,16 @@
 <br>
 
 <div align="center">
+  <p>
+    <i><img src="https://api.iconify.design/lucide:heart-handshake.svg?color=%2358A6FF" width="20" align="center" /> No gano dinero con los proyectos que presento aquí. <br>Los desarrollo pura y exclusivamente por pasión y porque resuelven problemas reales de mi día a día.<br>Construir código con utilidad práctica es el verdadero objetivo.</i>
+  </p>
+</div>
 
-  <h3>📬 ¿Hablamos?</h3>
+<br>
+
+<div align="center">
+
+  <h3><img src="https://api.iconify.design/lucide:mail.svg?color=%2358A6FF" width="28" align="center" /> ¿Hablamos?</h3>
 
   <p>
     La mayor parte de mis desarrollos residen en <b>repositorios privados</b>.
