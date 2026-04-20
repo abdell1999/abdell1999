@@ -126,7 +126,7 @@
     <td align="center" width="50%">
       <br>
       <h3><img src="https://api.iconify.design/lucide:book-open.svg?color=%2358A6FF" width="28" align="center" /> Ebook Reader</h3>
-      <p><i>Lector de libros basado en tecnología web con soporte para múltiples formatos y funciones avanzadas.</i></p>
+      <p><i>Lector de libros web nacido para cubrir la falta de buenas opciones de lectura automatizada en PC. Destaca por su integración con el motor TTS nativo del navegador (brillando especialmente con las voces de Edge), transformando cualquier ebook en un audiolibro inmersivo.</i></p>
       <a href="https://abdell1999.github.io/ebook-reader-public/" target="_blank">
         <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
       </a>
