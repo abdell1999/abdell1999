@@ -142,6 +142,24 @@
     </td>
     <td align="center" width="50%">
       <br>
+      <h3><img src="https://api.iconify.design/lucide:file-json.svg?color=%2358A6FF" width="28" align="center" /> ABRjson</h3>
+      <p><i>Herramienta privada para gestionar JSON: validación con esquemas, edición y visualización interactiva en grafo.</i></p>
+      <a href="https://abdell1999.github.io/abrjson-public/" target="_blank">
+        <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <h3><img src="https://api.iconify.design/lucide:eye.svg?color=%2358A6FF" width="28" align="center" /> Image Viewer</h3>
+      <p><i>Visualizador de imágenes ligero y privado. Accesible con hotkeys, multidioma y modo mosaico para una visualización fluida.</i></p>
+      <a href="https://abdell1999.github.io/abr-image-viewer-public/" target="_blank">
+        <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <br>
       <h3><img src="https://api.iconify.design/lucide:briefcase.svg?color=%2358A6FF" width="28" align="center" /> Otros Proyectos</h3>
       <p><i>Exploración constante de nuevas soluciones tecnológicas y herramientas de utilidad práctica diaria.</i></p>
       <br>
