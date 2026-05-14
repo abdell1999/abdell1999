@@ -186,104 +186,6 @@
 
 <br><br>
 
-<div align="center">
-  <img src="video-accessibility-preview.png" alt="Video Accessibility Preview" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
-</div>
-
-<br>
-
-<div align="center">
-  <h2><img src="https://api.iconify.design/lucide:accessibility.svg?color=%2358A6FF" width="32" align="center" /> Video Accessibility</h2>
-  <p><b>Extensión · Accesibilidad</b></p>
-  
-  <p>
-    Toma el control total de tu experiencia de video en la web. Video Accessibility estandariza tu experiencia,<br>
-    permitiéndote controlar cualquier video HTML5 con atajos consistentes y potentes.
-  </p>
-
-  <table align="center" border="0" style="max-width: 800px;">
-    <tr>
-      <td valign="top" width="50%">
-        <h4>🚀 Características Principales</h4>
-        <ul align="left">
-          <li><b>Atajos Universales:</b> Volumen, silenciado, pantalla completa y seek.</li>
-          <li><b>Salto Inteligente:</b> Configura saltos de 1 a 60 segundos.</li>
-          <li><b>Navegación por Porcentaje:</b> Salta instantáneamente del 0% al 90%.</li>
-          <li><b>Magic Wand:</b> Crea tus propios atajos mediante selectores CSS.</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <h4>🛠️ Cómo funciona</h4>
-        <ul align="left">
-          <li>Instala la extensión desde la Chrome Store.</li>
-          <li>Añade los sitios donde quieres usarla.</li>
-          <li>¡Listo! Domina cualquier reproductor web.</li>
-          <li><b>Privacidad Total:</b> Todo se procesa localmente.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-  
-  <div align="center">
-    <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2358A6FF" width="20" align="center" /> <i>Sin rastreo, sin telemetría, sin servidores externos.</i>
-  </div>
-</div>
-
-<br><br>
-
-<h2 align="center"><img src="https://api.iconify.design/lucide:zap.svg?color=%2358A6FF" width="32" align="center" /> Stack Tecnológico</h2>
-
-<br>
-
-<div align="center">
-<table border="0">
-  <tr>
-    <td align="center" width="50%">
-      <h3>Frontend</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass&theme=dark" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=nuxt,angular,tailwind&theme=dark" />
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <h3>Backend & DB</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>CMS & E-commerce</h3>
-      <br>
-      <a href="https://wordpress.org/" target="_blank">
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-      </a>
-      &nbsp;
-      <a href="https://www.prestashop.com/" target="_blank">
-        <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white" alt="PrestaShop"/>
-      </a>
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <h3>Herramientas & DevOps</h3>
-      <br>
-      <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=electron,jest,vitest&theme=dark" />
-      <br><br>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br><br>
-
 <h2 align="center"><img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%2358A6FF" width="32" align="center" /> GitHub Stats</h2>
 
 <br>
@@ -338,4 +240,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer" width="100%" />
 </div>
-
