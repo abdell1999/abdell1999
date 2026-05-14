@@ -160,6 +160,16 @@
     </td>
     <td align="center" width="50%">
       <br>
+      <h3><img src="https://api.iconify.design/lucide:video.svg?color=%2358A6FF" width="28" align="center" /> Video Accessibility</h3>
+      <p><i>Atajos universales para vídeos HTML. Privado, ligero y local. Estandariza tu experiencia en cualquier sitio web.</i></p>
+      <a href="https://chromewebstore.google.com/detail/video-accessibility/gkegicinlfihnoblalflbjhiamghfgap" target="_blank">
+        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
       <h3><img src="https://api.iconify.design/lucide:briefcase.svg?color=%2358A6FF" width="28" align="center" /> Otros Proyectos</h3>
       <p><i>Exploración constante de nuevas soluciones tecnológicas y herramientas de utilidad práctica diaria.</i></p>
       <br>
@@ -167,8 +177,58 @@
         <img src="https://img.shields.io/badge/Ver_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
       </a>
     </td>
+    <td align="center" width="50%">
+      <!-- Espacio para futuros proyectos -->
+    </td>
   </tr>
 </table>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="video-accessibility-preview.png" alt="Video Accessibility Preview" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide:accessibility.svg?color=%2358A6FF" width="32" align="center" /> Video Accessibility</h2>
+  <p><b>Extensión · Accesibilidad</b></p>
+  
+  <p>
+    Toma el control total de tu experiencia de video en la web. Video Accessibility estandariza tu experiencia,<br>
+    permitiéndote controlar cualquier video HTML5 con atajos consistentes y potentes.
+  </p>
+
+  <table align="center" border="0" style="max-width: 800px;">
+    <tr>
+      <td valign="top" width="50%">
+        <h4>🚀 Características Principales</h4>
+        <ul align="left">
+          <li><b>Atajos Universales:</b> Volumen, silenciado, pantalla completa y seek.</li>
+          <li><b>Salto Inteligente:</b> Configura saltos de 1 a 60 segundos.</li>
+          <li><b>Navegación por Porcentaje:</b> Salta instantáneamente del 0% al 90%.</li>
+          <li><b>Magic Wand:</b> Crea tus propios atajos mediante selectores CSS.</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h4>🛠️ Cómo funciona</h4>
+        <ul align="left">
+          <li>Instala la extensión desde la Chrome Store.</li>
+          <li>Añade los sitios donde quieres usarla.</li>
+          <li>¡Listo! Domina cualquier reproductor web.</li>
+          <li><b>Privacidad Total:</b> Todo se procesa localmente.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  
+  <div align="center">
+    <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2358A6FF" width="20" align="center" /> <i>Sin rastreo, sin telemetría, sin servidores externos.</i>
+  </div>
 </div>
 
 <br><br>
