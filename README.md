@@ -88,7 +88,7 @@
     </td>
     <td align="center" width="50%">
       <h3><img src="https://api.iconify.design/lucide:thumbs-up.svg?color=%2358A6FF" width="28" align="center" /> YouTube Like Shortcut</h3>
-      <p><i>Extensión para darle like a un Short pulsando "L", replicando el comportamiento de TikTok en YouTube.</i></p>
+      <p><i>Extensión para darle like a un vídeo pulsando "L", replicando el comportamiento de TikTok en YouTube.</i></p>
       <br>
       <a href="https://chromewebstore.google.com/detail/youtube-shorts-like-short/lcpkmnlnllegnfhanjoeeejmnhgpnclm" target="_blank">
         <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
