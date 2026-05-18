@@ -178,12 +178,24 @@
     </td>
     <td align="center" width="50%">
       <br>
+      <h3><img src="https://api.iconify.design/lucide:archive.svg?color=%2358A6FF" width="28" align="center" /> Reddit Archive</h3>
+      <p><i>Accede a contenido archivado o borrado en Reddit. Integración transparente, bajo demanda y sin rastreo pasivo.</i></p>
+      <a href="https://chromewebstore.google.com/detail/reddit-archive-extension/eiocepcbcfpeiehcgdoghdgonmjgconn" target="_blank">
+        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
       <h3><img src="https://api.iconify.design/lucide:briefcase.svg?color=%2358A6FF" width="28" align="center" /> Otros Proyectos</h3>
       <p><i>Exploración constante de nuevas soluciones tecnológicas y herramientas de utilidad práctica diaria.</i></p>
       <br>
       <a href="https://github.com/abdell1999?tab=repositories" target="_blank">
         <img src="https://img.shields.io/badge/Ver_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
       </a>
+    </td>
+    <td align="center" width="50%">
     </td>
   </tr>
 </table>
