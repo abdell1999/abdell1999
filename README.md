@@ -150,14 +150,21 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide:eye.svg?color=%2358A6FF" width="28" align="center" /> Image Viewer</h3>
-      <p><i>Visualizador de imágenes ligero y privado. Accesible con hotkeys, multidioma y modo mosaico para una visualización fluida.</i></p>
-      <a href="https://abdell1999.github.io/abr-image-viewer-public/" target="_blank">
-        <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
-      </a>
-    </td>
+   <td align="center" width="50%">
+  <br>
+  <h3><img src="https://api.iconify.design/lucide:eye.svg?color=%2358A6FF" width="28" align="center" /> Visor de imágenes</h3>
+  <p><i>Visualizador de imágenes ligero y privado. Accesible con teclas de acceso rápido, multidioma y modo mosaico para una visualización fluida.</i></p>
+  
+  <a href="https://abdell1999.github.io/image-viewer-public/" target="_blank">
+    <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Versión web" />
+  </a>
+  <br><br>
+  
+  <!-- Botón único para ambos ejecutables -->
+  <a href="https://github.com/abdell1999/image-viewer-public/releases" target="_blank">
+    <img src="https://img.shields.io/badge/Ejecutables_Win-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /><img src="https://img.shields.io/badge/&_Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+</td>
     <td align="center" width="50%">
       <br>
       <h3><img src="https://api.iconify.design/lucide:video.svg?color=%2358A6FF" width="28" align="center" /> Video Accessibility</h3>
