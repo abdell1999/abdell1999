@@ -152,7 +152,7 @@
   <tr>
    <td align="center" width="50%">
   <br>
-  <h3><img src="https://api.iconify.design/lucide:eye.svg?color=%2358A6FF" width="28" align="center" /> Visor de imágenes</h3>
+  <h3><img src="https://api.iconify.design/lucide:eye.svg?color=%2358A6FF" width="28" align="center" /> Image Viewer</h3>
   <p><i>Visualizador de imágenes ligero y privado. Accesible con teclas de acceso rápido, multidioma y modo mosaico para una visualización fluida.</i></p>
   
   <a href="https://abdell1999.github.io/image-viewer-public/" target="_blank">
