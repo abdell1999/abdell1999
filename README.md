@@ -195,6 +195,14 @@
   <tr>
     <td align="center" width="50%">
       <br>
+      <h3><img src="https://api.iconify.design/lucide:scan-text.svg?color=%2358A6FF" width="28" align="center" /> OCR Web</h3>
+      <p><i>Extrae texto de imágenes (OCR) utilizando los motores Tesseract o Paddle. Herramienta accesible y directa desde el navegador.</i></p>
+      <a href="https://abdell1999.github.io/ocr-web-public/" target="_blank">
+        <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <br>
       <h3><img src="https://api.iconify.design/lucide:briefcase.svg?color=%2358A6FF" width="28" align="center" /> Otros Proyectos</h3>
       <p><i>Exploración constante de nuevas soluciones tecnológicas y herramientas de utilidad práctica diaria.</i></p>
       <br>
@@ -202,8 +210,7 @@
         <img src="https://img.shields.io/badge/Ver_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
       </a>
     </td>
-    <td align="center" width="50%">
-    </td>
+
   </tr>
 </table>
 </div>
