@@ -232,6 +232,45 @@
     </td>
   </tr>
   <tr>
+    <td align="center" width="50%">
+      <br>
+      <h3><img src="https://api.iconify.design/lucide:file-text.svg?color=%2358A6FF" width="28" align="center" /> Awesome Editor</h3>
+      <p><i>Editor de texto enriquecido agnóstico del framework, diseñado para integrarse fácilmente en cualquier desarrollo web.</i></p>
+      <a href="https://abdell1999.github.io/awesome-editor-nuxt-demo/" target="_blank">
+        <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <h3><img src="https://api.iconify.design/lucide:audio-lines.svg?color=%2358A6FF" width="28" align="center" /> Local Recorder</h3>
+      <p><i>Grabadora de voz con transcripción automática y soporte para importar audio o vídeo local con Whisper (WebGPU/WASM). Privacidad absoluta.</i></p>
+      <a href="https://abdell1999.github.io/local-recorder-public/" target="_blank">
+        <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <h3><img src="https://api.iconify.design/lucide:qr-code.svg?color=%2358A6FF" width="28" align="center" /> QR Studio</h3>
+      <p><i>Generador avanzado de códigos QR estáticos y personalizables procesados 100% localmente. Soporta lotes y exportación SVG.</i></p>
+      <a href="https://abdell1999.github.io/qr-studio-public/" target="_blank">
+        <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <h3><img src="https://api.iconify.design/lucide:map-pin.svg?color=%2358A6FF" width="28" align="center" /> BlueDrop</h3>
+      <p><i>Aplicación Android que detecta y guarda automáticamente la ubicación de tu coche al aparcar. Sencilla, ligera y eficiente.</i></p>
+      <a href="https://abdell1999.github.io/bluedrop-public/" target="_blank">
+        <img src="https://img.shields.io/badge/Presentación_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+      </a>
+      <a href="https://play.google.com/store/apps/details?id=com.abr.bluedrop" target="_blank">
+        <img src="https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td align="center" colspan="2">
       <br>
       <h3><img src="https://api.iconify.design/lucide:briefcase.svg?color=%2358A6FF" width="28" align="center" /> Otros Proyectos</h3>
