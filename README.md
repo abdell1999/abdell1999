@@ -242,9 +242,9 @@
     </td>
     <td align="center" width="50%">
       <br>
-      <h3><img src="https://api.iconify.design/lucide:audio-lines.svg?color=%2358A6FF" width="28" align="center" /> Local Recorder</h3>
+      <h3><img src="https://api.iconify.design/lucide:audio-lines.svg?color=%2358A6FF" width="28" align="center" /> Transcribe Local</h3>
       <p><i>Grabadora de voz con transcripción automática y soporte para importar audio o vídeo local con Whisper (WebGPU/WASM). Privacidad absoluta.</i></p>
-      <a href="https://abdell1999.github.io/local-recorder-public/" target="_blank">
+      <a href="https://abdell1999.github.io/transcribe-local-public/" target="_blank">
         <img src="https://img.shields.io/badge/Versión_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Version"/>
       </a>
     </td>
