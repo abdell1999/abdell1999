@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Abdellah%20Bukad--duh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;
-    <a href="mailto:info@abdell.dev">
+    <a href="mailto:contacto@abdell.dev">
       <img src="https://img.shields.io/badge/Email-info%40abdell.dev-58A6FF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
     </a>
     &nbsp;
@@ -352,7 +352,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Abdellah%20Bukad--duh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:info@abdell.dev">
+  <a href="mailto:contacto@abdell.dev">
     <img src="https://img.shields.io/badge/Email-info%40abdell.dev-58A6FF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
