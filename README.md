@@ -110,7 +110,7 @@
       <br>
       <h3><img src="https://api.iconify.design/lucide/mic.svg?color=%2358A6FF" width="26" align="center" /> Simple TTS</h3>
       <p><i>Extensión de navegador con tecnología de texto a voz (TTS) para lectura automatizada. Minimalista, rápida y accesible.</i></p>
-      <a href="https://abdell1999.github.io/simpletts-landing/" target="_blank">
+      <a href="https://abdell1999.github.io/simpletts-public/" target="_blank">
         <img src="https://img.shields.io/badge/Presentacion_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
       </a>
       &nbsp;
@@ -144,7 +144,7 @@
       <br>
       <h3><img src="https://api.iconify.design/lucide/map-pin.svg?color=%2358A6FF" width="26" align="center" /> BlueDrop</h3>
       <p><i>Aplicación Android que detecta y almacena automáticamente la ubicación de tu coche al aparcar. Ligera, simple y sin rastreo pasivo.</i></p>
-      <a href="https://abdell1999.github.io/bluedrop-public/" target="_blank">
+      <a href="https://bluedrop.abdell.dev" target="_blank">
         <img src="https://img.shields.io/badge/Presentacion_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
       </a>
       &nbsp;
