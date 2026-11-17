@@ -132,7 +132,7 @@
       <br>
       <h3><img src="https://api.iconify.design/lucide/eye.svg?color=%2358A6FF" width="26" align="center" /> Image Viewer</h3>
       <p><i>Visualizador de imágenes ligero y privado. Accesible con atajos de teclado, soporte multidioma y modo mosaico de alta velocidad.</i></p>
-      <a href="https://abdell1999.github.io/image-viewer-public/" target="_blank">
+      <a href="https://imageviewer.abdell.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web" />
       </a>
       &nbsp;
@@ -192,7 +192,7 @@
       <br>
       <h3><img src="https://api.iconify.design/lucide/image.svg?color=%2358A6FF" width="24" align="center" /> Image Tools</h3>
       <p><i>Editor de imágenes con modelos IA y ejecución 100% en cliente. Privacidad absoluta sin procesamiento remoto.</i></p>
-      <a href="https://abdell1999.github.io/image-tools-public/" target="_blank">
+      <a href="https://imagetools.abdell.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
       </a>
     </td>
@@ -220,7 +220,7 @@
       <br>
       <h3><img src="https://api.iconify.design/lucide/file-json.svg?color=%2358A6FF" width="24" align="center" /> ABRjson</h3>
       <p><i>Utilidad privada para gestión de JSON: validación contra JSON Schema, edición interactiva y visualización en grafo.</i></p>
-      <a href="https://abdell1999.github.io/abrjson-public/" target="_blank">
+      <a href="https://json.abdell.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
       </a>
     </td>
@@ -246,7 +246,7 @@
       <br>
       <h3><img src="https://api.iconify.design/lucide/scan-text.svg?color=%2358A6FF" width="24" align="center" /> OCR Web</h3>
       <p><i>Reconocimiento óptico de caracteres (OCR) en navegador mediante Tesseract o Paddle OCR. Rápido y privado.</i></p>
-      <a href="https://abdell1999.github.io/ocr-web-public/" target="_blank">
+      <a href="https://ocr.abdell.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
       </a>
     </td>
@@ -274,7 +274,7 @@
       <br>
       <h3><img src="https://api.iconify.design/lucide/qr-code.svg?color=%2358A6FF" width="24" align="center" /> QR Studio</h3>
       <p><i>Generador configurable de códigos QR vectoriales procesados localmente. Soporta procesamiento por lotes y exportación SVG.</i></p>
-      <a href="https://abdell1999.github.io/qr-studio-public/" target="_blank">
+      <a href="https://qr.abdell.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
       </a>
     </td>
