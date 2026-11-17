@@ -93,7 +93,7 @@
     <td align="center" width="50%">
       <h3><img src="https://api.iconify.design/lucide/audio-lines.svg?color=%2358A6FF" width="26" align="center" /> Transcribe Local</h3>
       <p><i>Grabadora de voz y transcriptor automático local mediante Whisper (WebGPU / WASM). Privacidad total sin envío de datos al exterior.</i></p>
-      <a href="https://abdell1999.github.io/transcribe-local-public/" target="_blank">
+      <a href="https://transcribe.abdell.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
       </a>
     </td>
@@ -110,7 +110,7 @@
       <br>
       <h3><img src="https://api.iconify.design/lucide/mic.svg?color=%2358A6FF" width="26" align="center" /> Simple TTS</h3>
       <p><i>Extensión de navegador con tecnología de texto a voz (TTS) para lectura automatizada. Minimalista, rápida y accesible.</i></p>
-      <a href="https://abdell1999.github.io/simpletts-public/" target="_blank">
+      <a href="https://simpletts.abdell.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Presentacion_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
       </a>
       &nbsp;
@@ -174,7 +174,7 @@
     <td align="center" width="50%">
       <h3><img src="https://api.iconify.design/lucide/lock.svg?color=%2358A6FF" width="24" align="center" /> Cipher</h3>
       <p><i>Cifrado asimétrico, esteganografía y gestión avanzada de metadatos. Seguridad y privacidad de extremo a extremo.</i></p>
-      <a href="https://abdell1999.github.io/cipher-public/" target="_blank">
+      <a href="https://cipher.abdell.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
       </a>
     </td>
@@ -184,7 +184,7 @@
       <br>
       <h3><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358A6FF" width="24" align="center" /> Ebook Reader</h3>
       <p><i>Lector web que transforma cualquier libro digital en audiolibro mediante integración nativa con el motor TTS.</i></p>
-      <a href="https://abdell1999.github.io/ebook-reader-public/" target="_blank">
+      <a href="https://reader.abdell.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
       </a>
     </td>
@@ -264,7 +264,7 @@
       <br>
       <h3><img src="https://api.iconify.design/lucide/scissors.svg?color=%2358A6FF" width="24" align="center" /> ABR Offline Converter</h3>
       <p><i>Conversión entre múltiples formatos y recorte de audio y vídeo 100% en local mediante WASM.</i></p>
-      <a href="https://abdell1999.github.io/offline-converter-public/" target="_blank">
+      <a href="https://convert.abdell.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
       </a>
     </td>
