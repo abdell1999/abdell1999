@@ -160,7 +160,7 @@
 
 <div align="center">
 <details>
-<summary><b>📂 Explorar más proyectos y herramientas open-source (+14 utilidades)</b></summary>
+<summary><b>📂 Explorar más proyectos y herramientas open-source (+15 utilidades)</b></summary>
 <br>
 <table border="0" align="center">
   <tr>
@@ -285,6 +285,18 @@
       <a href="https://chromewebstore.google.com/detail/youtube-shorts-like-short/lcpkmnlnllegnfhanjoeeejmnhgpnclm" target="_blank">
         <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <h3><img src="https://api.iconify.design/lucide/subtitles.svg?color=%2358A6FF" width="24" align="center" /> SubFetch for YouTube™</h3>
+      <p><i>Descarga y carga de subtítulos (.srt/.vtt) en YouTube. Reconstrucción de frases completas, personalización accesible y procesamiento 100% local.</i></p>
+      <a href="https://chromewebstore.google.com/detail/subfetch-for-youtube/kdhbkkklpmmlcoljjefjbfcldgndebdc" target="_blank">
+        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
     </td>
   </tr>
   <tr>
