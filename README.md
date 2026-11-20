@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-Abdellah%20Bukad--duh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;
-    <a href="mailto:contacto@abdell.dev">
+    <a href="mailto:info@abdell.dev">
       <img src="https://img.shields.io/badge/Email-info%40abdell.dev-58A6FF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
     </a>
     &nbsp;
@@ -83,74 +83,74 @@
 <br><br>
 
 <h2 align="center"><img src="https://api.iconify.design/lucide/rocket.svg?color=%2358A6FF" width="30" align="center" /> Proyectos Destacados</h2>
-<p align="center">Soluciones de software creadas para resolver necesidades reales con enfoque en privacidad local y rendimiento.</p>
+<p align="center">25 aplicaciones, extensiones y librerías que he hecho y mantengo. Casi todas funcionan enteras en tu dispositivo.<br>La mayoría tiene en <a href="https://abdell.dev">abdell.dev</a> una guía de uso y otro artículo que explica cómo está hecha por dentro.</p>
 
 <br>
 
 <div align="center">
 <table border="0">
   <tr>
-    <td align="center" width="50%">
-      <h3><img src="https://api.iconify.design/lucide/audio-lines.svg?color=%2358A6FF" width="26" align="center" /> Transcribe Local</h3>
-      <p><i>Grabadora de voz y transcriptor automático local mediante Whisper (WebGPU / WASM). Privacidad total sin envío de datos al exterior.</i></p>
-      <a href="https://transcribe.abdell.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
-      </a>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/file-text.svg?color=%2358A6FF" width="26" align="center" /> Awesome Editor</h3>
+      <p><i>Mi alternativa a CKEditor y TinyMCE. Un solo núcleo en TypeScript, sin framework, con componentes para Vue, Nuxt, React y Angular y un elemento <code>&lt;awesome-editor&gt;</code> para cualquier otra web. Exporta a HTML, Markdown, Word y PDF.</i></p>
+      <p><sub>TypeScript · Vue · React · Angular · Web Components</sub></p>
+      <a href="https://editor.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/awesome-editor/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
     </td>
-    <td align="center" width="50%">
-      <h3><img src="https://api.iconify.design/lucide/sparkles.svg?color=%2358A6FF" width="26" align="center" /> AI Upscaler & Background Remover</h3>
-      <p><i>Escala imágenes 2x/4x y elimina el fondo localmente usando IA. Ejecución directa en navegador sin servidores externos.</i></p>
-      <a href="https://chromewebstore.google.com/detail/ai-image-upscaler/akfcbifmheikdgccbnlhdmfdnfcpobpp" target="_blank">
-        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
-      </a>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/utensils.svg?color=%2358A6FF" width="26" align="center" /> MenuCreator</h3>
+      <p><i>Carta digital para bares y restaurantes. El hostelero la edita desde el móvil con precios, fotos, los 14 alérgenos y platos agotados en mitad del servicio; el cliente la abre con un QR.</i></p>
+      <p><sub>Nuxt 3 · TypeScript · Drizzle ORM · MySQL / TiDB · better-auth</sub></p>
+      <a href="https://menu.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
+      &nbsp;
+      <a href="https://menu.abdell.dev/prueba" target="_blank"><img src="https://img.shields.io/badge/Probar_sin_cuenta-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Probar sin cuenta"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/menucreator/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/mic.svg?color=%2358A6FF" width="26" align="center" /> Simple TTS</h3>
-      <p><i>Extensión de navegador con tecnología de texto a voz (TTS) para lectura automatizada. Minimalista, rápida y accesible.</i></p>
-      <a href="https://simpletts.abdell.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Presentacion_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-      </a>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358A6FF" width="26" align="center" /> ABReader</h3>
+      <p><i>Lector de libros electrónicos para web y escritorio. 11 formatos, entre ellos EPUB y PDF, anotaciones, vocabulario con repaso y lectura en voz alta con voces neuronales que se ejecutan en tu dispositivo.</i></p>
+      <p><sub>Nuxt 4 · TypeScript · Tauri 2 · ONNX Runtime Web · OPFS</sub></p>
+      <a href="https://reader.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
       &nbsp;
-      <a href="https://chromewebstore.google.com/detail/simple-tts/mnnhakddcadkcichdgimoennpkfkcalk" target="_blank">
-        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
-      </a>
+      <a href="https://abdell.dev/proyectos/abreader/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
     </td>
-    <td align="center" width="50%">
-      <br>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/audio-lines.svg?color=%2358A6FF" width="26" align="center" /> TranscribeLocal</h3>
+      <p><i>Transcribe audio y vídeo con Whisper dentro del navegador. Corrección frase a frase escuchando el audio, distinción de hablantes, resumen con un modelo local y exportación a SRT, VTT y Markdown.</i></p>
+      <p><sub>Nuxt 4 · Transformers.js · WebGPU · WebAssembly · Web Workers</sub></p>
+      <a href="https://transcribe.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/transcribe-local/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
       <h3><img src="https://api.iconify.design/lucide/arrow-left-right.svg?color=%2358A6FF" width="26" align="center" /> ABR Transfer</h3>
-      <p><i>Transferencia directa y segura de archivos entre dispositivos de una misma red local (P2P), sin nubes ni intermediarios.</i></p>
-      <a href="https://github.com/abdell1999/abr-transfer-public/releases" target="_blank">
-        <img src="https://img.shields.io/badge/Ejecutables_Win_&_Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows y Linux" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/eye.svg?color=%2358A6FF" width="26" align="center" /> Image Viewer</h3>
-      <p><i>Visualizador de imágenes ligero y privado. Accesible con atajos de teclado, soporte multidioma y modo mosaico de alta velocidad.</i></p>
-      <a href="https://imageviewer.abdell.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web" />
-      </a>
+      <p><i>Pasa archivos y carpetas entre equipos de la misma red sin nube. Sesión temporal con QR, PIN para aceptar cada conexión, pausa y reanudación y verificación SHA-256. Se puede recibir desde cualquier navegador.</i></p>
+      <p><sub>Tauri 2 · Rust · axum · Nuxt 3 · TypeScript</sub></p>
+      <a href="https://github.com/abdell1999/abr-transfer-public/releases" target="_blank"><img src="https://img.shields.io/badge/Descargas_Windows_%26_Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Descargas para Windows y Linux"/></a>
       &nbsp;
-      <a href="https://github.com/abdell1999/image-viewer-public/releases" target="_blank">
-        <img src="https://img.shields.io/badge/Ejecutables_Win_&_Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows y Linux" />
-      </a>
+      <a href="https://abdell.dev/proyectos/abr-transfer/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
     </td>
-    <td align="center" width="50%">
-      <br>
+    <td align="center" valign="top" width="50%">
       <h3><img src="https://api.iconify.design/lucide/map-pin.svg?color=%2358A6FF" width="26" align="center" /> BlueDrop</h3>
-      <p><i>Aplicación Android que detecta y almacena automáticamente la ubicación de tu coche al aparcar. Ligera, simple y sin rastreo pasivo.</i></p>
-      <a href="https://bluedrop.abdell.dev" target="_blank">
-        <img src="https://img.shields.io/badge/Presentacion_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-      </a>
+      <p><i>App nativa de Android que guarda dónde has aparcado en cuanto el móvil se desconecta del Bluetooth del coche, sin abrir la app. Mapa, historial con notas y fotos y widget. Sin anuncios ni cuentas.</i></p>
+      <p><sub>Kotlin · Jetpack Compose · Hilt · Room · CameraX</sub></p>
+      <a href="https://play.google.com/store/apps/details?id=com.abr.bluedrop" target="_blank"><img src="https://img.shields.io/badge/Google_Play-4285F4?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a>
       &nbsp;
-      <a href="https://play.google.com/store/apps/details?id=com.abr.bluedrop" target="_blank">
-        <img src="https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Store"/>
-      </a>
+      <a href="https://bluedrop.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Presentaci%C3%B3n-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Presentación"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/bluedrop/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
     </td>
   </tr>
 </table>
@@ -160,156 +160,237 @@
 
 <div align="center">
 <details>
-<summary><b>📂 Explorar más proyectos y herramientas open-source (+15 utilidades)</b></summary>
+<summary><b>📂 Ver los otros 19 proyectos</b></summary>
 <br>
-<table border="0" align="center">
+<h3 align="center">Aplicaciones web</h3>
+
+<table border="0">
   <tr>
-    <td align="center" width="50%">
-      <h3><img src="https://api.iconify.design/lucide/file-text.svg?color=%2358A6FF" width="24" align="center" /> Awesome Editor</h3>
-      <p><i>Editor de texto enriquecido agnóstico del framework, preparado para integrarse en cualquier arquitectura web moderna.</i></p>
-      <a href="https://abdell1999.github.io/awesome-editor-nuxt-demo/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo_Nuxt-2ea44f?style=for-the-badge&logo=nuxt&logoColor=white" alt="Demo Nuxt"/>
-      </a>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/lock.svg?color=%2358A6FF" width="24" align="center" /> ABR Cipher</h3>
+      <p><i>Diecinueve herramientas de cifrado y privacidad en el navegador: textos y archivos de varios GB con AES-256-GCM, notas que caducan, gestor de contraseñas y borrado seguro.</i></p>
+      <p><sub>Nuxt 4 · Web Crypto API · Web Workers · Rust</sub></p>
+      <a href="https://cipher.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/cipher/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
     </td>
-    <td align="center" width="50%">
-      <h3><img src="https://api.iconify.design/lucide/lock.svg?color=%2358A6FF" width="24" align="center" /> Cipher</h3>
-      <p><i>Cifrado asimétrico, esteganografía y gestión avanzada de metadatos. Seguridad y privacidad de extremo a extremo.</i></p>
-      <a href="https://cipher.abdell.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
-      </a>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/repeat.svg?color=%2358A6FF" width="24" align="center" /> ABR Offline Converter</h3>
+      <p><i>Conversor de imágenes, vídeo, audio, PDF, Word, ebooks y subtítulos que funciona entero en el navegador, con 294 conversiones y un taller para montar un EPUB desde Markdown.</i></p>
+      <p><sub>Nuxt 4 · ffmpeg.wasm · LibreOffice WASM · pdf-lib · PWA</sub></p>
+      <a href="https://convert.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/offline-converter/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/book-open.svg?color=%2358A6FF" width="24" align="center" /> Ebook Reader</h3>
-      <p><i>Lector web que transforma cualquier libro digital en audiolibro mediante integración nativa con el motor TTS.</i></p>
-      <a href="https://reader.abdell.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/image.svg?color=%2358A6FF" width="24" align="center" /> Image Tools</h3>
-      <p><i>Editor de imágenes con modelos IA y ejecución 100% en cliente. Privacidad absoluta sin procesamiento remoto.</i></p>
-      <a href="https://imagetools.abdell.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/image-down.svg?color=%2358A6FF" width="24" align="center" /> DevExtractor</h3>
-      <p><i>Extracción y filtrado ágil de recursos multimedia (SVG, imágenes, fuentes tipográficas CSS).</i></p>
-      <a href="https://chromewebstore.google.com/detail/devextractor/lkgndoalgpfelahmogbddekpbhcdinjb" target="_blank">
-        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/route.svg?color=%2358A6FF" width="24" align="center" /> DualRoute</h3>
-      <p><i>Gestión avanzada de rutas y URLs con enfoque en privacidad, notas asociadas y exportación local.</i></p>
-      <a href="https://chromewebstore.google.com/detail/dualroute/dncknellidppghfbonbigngaidncjigg" target="_blank">
-        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/file-json.svg?color=%2358A6FF" width="24" align="center" /> ABRjson</h3>
-      <p><i>Utilidad privada para gestión de JSON: validación contra JSON Schema, edición interactiva y visualización en grafo.</i></p>
-      <a href="https://json.abdell.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/video.svg?color=%2358A6FF" width="24" align="center" /> Video Accessibility</h3>
-      <p><i>Atajos de teclado universales para reproductores de vídeo HTML5. Ligero, local y universal en cualquier web.</i></p>
-      <a href="https://chromewebstore.google.com/detail/video-accessibility/gkegicinlfihnoblalflbjhiamghfgap" target="_blank">
-        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/archive.svg?color=%2358A6FF" width="24" align="center" /> Reddit Archive</h3>
-      <p><i>Acceso a contenido archivado o eliminado en hilos de Reddit. Integración transparente y sin rastreo en segundo plano.</i></p>
-      <a href="https://chromewebstore.google.com/detail/reddit-archive-extension/eiocepcbcfpeiehcgdoghdgonmjgconn" target="_blank">
-        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <br>
+    <td align="center" valign="top" width="50%">
       <h3><img src="https://api.iconify.design/lucide/scan-text.svg?color=%2358A6FF" width="24" align="center" /> OCR Web</h3>
-      <p><i>Reconocimiento óptico de caracteres (OCR) en navegador mediante Tesseract o Paddle OCR. Rápido y privado.</i></p>
-      <a href="https://ocr.abdell.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
-      </a>
+      <p><i>Reconoce texto en imágenes y PDF dentro del navegador, también en japonés y chino. Tres motores, revisión con la imagen al lado y las líneas dudosas marcadas, y PDF buscable.</i></p>
+      <p><sub>Nuxt 4 · PP-OCRv6 · Tesseract.js · ONNX Runtime Web · pdf-lib</sub></p>
+      <a href="https://ocr.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/ocr-web/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/cookie.svg?color=%2358A6FF" width="24" align="center" /> Cookie Nuke</h3>
-      <p><i>Limpieza automática de cookies, caché y almacenamiento local de sitios seleccionados al finalizar la sesión.</i></p>
-      <a href="https://chromewebstore.google.com/detail/mnklbdnmhgojhbeejmaoofonlobocekm" target="_blank">
-        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/scissors.svg?color=%2358A6FF" width="24" align="center" /> ABR Offline Converter</h3>
-      <p><i>Conversión entre múltiples formatos y recorte de audio y vídeo 100% en local mediante WASM.</i></p>
-      <a href="https://convert.abdell.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br>
+    <td align="center" valign="top" width="50%">
       <h3><img src="https://api.iconify.design/lucide/qr-code.svg?color=%2358A6FF" width="24" align="center" /> QR Studio</h3>
-      <p><i>Generador configurable de códigos QR vectoriales procesados localmente. Soporta procesamiento por lotes y exportación SVG.</i></p>
-      <a href="https://qr.abdell.dev/" target="_blank">
-        <img src="https://img.shields.io/badge/Demo_Web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo Web"/>
-      </a>
+      <p><i>Generador de QR con diseño propio y un verificador que pone a prueba cada código impreso pequeño, desenfocado y con poca luz. Lector que avisa de enlaces fraudulentos y lotes desde CSV.</i></p>
+      <p><sub>Nuxt 4 · TypeScript · jsQR · Web Crypto · PWA</sub></p>
+      <a href="https://qr.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/qr-studio/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
     </td>
-    <td align="center" width="50%">
-      <br>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/braces.svg?color=%2358A6FF" width="24" align="center" /> ABRjson</h3>
+      <p><i>Editor de JSON para archivos grandes, de hasta 100 MB. Texto y grafo sincronizados, búsqueda por claves y rutas, validación con JSON Schema y guardado sin tocar lo que no has cambiado.</i></p>
+      <p><sub>Nuxt 4 · CodeMirror 6 · Web Workers · File System Access API</sub></p>
+      <a href="https://json.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/abrjson/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/image.svg?color=%2358A6FF" width="24" align="center" /> ABR Image Tools</h3>
+      <p><i>Editor de imágenes para escribir manuales sin enseñar datos personales: censura automática de DNI, IBAN, teléfonos y caras con OCR local, flechas y textos, capas y procesamiento por lotes.</i></p>
+      <p><sub>Nuxt 4 · Canvas 2D · Tesseract.js · MediaPipe · WebGPU</sub></p>
+      <a href="https://imagetools.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/image-tools/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/dumbbell.svg?color=%2358A6FF" width="24" align="center" /> ABR Liftlog</h3>
+      <p><i>Registro de entrenamientos de gimnasio para el móvil: rutinas, series con peso, repeticiones y RIR, calendario de adherencia y estadísticas. Funciona sin conexión y hace copias en Google Drive.</i></p>
+      <p><sub>React 19 · TypeScript · Dexie · Recharts · Workbox</sub></p>
+      <a href="https://liftlog.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/abr-liftlog/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">Extensiones de Chrome</h3>
+
+<table border="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/sparkles.svg?color=%2358A6FF" width="24" align="center" /> AI Upscaler & Background Remover</h3>
+      <p><i>Amplía imágenes ×2 o ×4 con Real-ESRGAN y quita fondos con U²-Net, una a una o por lotes, todo en tu equipo con WebGPU o WebAssembly.</i></p>
+      <p><sub>WXT · Vue 3 · ONNX Runtime Web · WebGPU</sub></p>
+      <a href="https://chromewebstore.google.com/detail/ai-upscaler-background-re/akfcbifmheikdgccbnlhdmfdnfcpobpp" target="_blank"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/ai-upscaler/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/mic.svg?color=%2358A6FF" width="24" align="center" /> Simple TTS</h3>
+      <p><i>Lee en voz alta cualquier texto de una web en Chrome y Edge, con las voces del propio navegador, con cola de lectura, resaltado de lo que se lee y tres modos de reproductor.</i></p>
+      <p><sub>WXT · Vue 3 · Chrome TTS API · Offscreen API</sub></p>
+      <a href="https://chromewebstore.google.com/detail/simple-tts/mnnhakddcadkcichdgimoennpkfkcalk" target="_blank"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/></a>
+      &nbsp;
+      <a href="https://simpletts.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Presentaci%C3%B3n-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Presentación"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/simple-tts/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/image-down.svg?color=%2358A6FF" width="24" align="center" /> DevExtractor</h3>
+      <p><i>Encuentra las imágenes, SVG, vídeos, fondos CSS y fuentes de una página, también en iframes y shadow DOM, y los descarga sueltos o en un ZIP. Cambia imágenes en vivo para probar alternativas.</i></p>
+      <p><sub>WXT · Vue 3 · JSZip · Offscreen API</sub></p>
+      <a href="https://chromewebstore.google.com/detail/devextractor/lkgndoalgpfelahmogbddekpbhcdinjb" target="_blank"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/devextractor/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/video.svg?color=%2358A6FF" width="24" align="center" /> Video Accessibility</h3>
+      <p><i>Los atajos de teclado de YouTube en cualquier vídeo HTML: saltos por porcentaje, velocidad, bucle A-B, filtros y modo cine, solo en las webs que tú eliges.</i></p>
+      <p><sub>WXT · Vue 3 · Shadow DOM · MutationObserver</sub></p>
+      <a href="https://chromewebstore.google.com/detail/video-accessibility/gkegicinlfihnoblalflbjhiamghfgap" target="_blank"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/video-accessibility/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/archive.svg?color=%2358A6FF" width="24" align="center" /> Visor de archivo para Reddit</h3>
+      <p><i>Muestra dentro de Reddit lo que el archivo público de Arctic Shift guardó de posts y comentarios borrados o editados, siempre marcado como archivado. Exporta a JSON, Markdown o CSV.</i></p>
+      <p><sub>WXT · Vue 3 · Zod · DOMPurify</sub></p>
+      <a href="https://chromewebstore.google.com/detail/reddit-archive/eiocepcbcfpeiehcgdoghdgonmjgconn" target="_blank"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/reddit-archive/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/route.svg?color=%2358A6FF" width="24" align="center" /> DualRoute</h3>
+      <p><i>Abre con un clic las páginas que revisas cada día, en modo normal, incógnito o los dos. Avisa cuando toca volver a mirarlas y guarda notas con historial. En 13 idiomas.</i></p>
+      <p><sub>WXT · React 19 · Zod · Chrome Alarms</sub></p>
+      <a href="https://chromewebstore.google.com/detail/dualroute/dncknellidppghfbonbigngaidncjigg" target="_blank"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/dualroute/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/cookie.svg?color=%2358A6FF" width="24" align="center" /> Cookie Nuke</h3>
+      <p><i>Borra las cookies y los datos de un sitio en cuanto cierras su última pestaña. Tú eliges qué sitios se limpian, o lo limpias todo menos los que protejas, y también puedes hacerlo a mano con Alt+Shift+K.</i></p>
+      <p><sub>WXT · React 19 · Chrome Cookies · Chrome Browsing Data</sub></p>
+      <a href="https://chromewebstore.google.com/detail/cookie-nuke/mnklbdnmhgojhbeejmaoofonlobocekm" target="_blank"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/cookie-nuke/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/subtitles.svg?color=%2358A6FF" width="24" align="center" /> SubFetch for YouTube</h3>
+      <p><i>Descarga en .srt los subtítulos de YouTube, con los automáticos rehechos en frases completas, y proyecta tus propios .srt o .vtt con tipografía OpenDyslexic y alto contraste.</i></p>
+      <p><sub>WXT · Vue 3 · vue-i18n · Shadow DOM</sub></p>
+      <a href="https://chromewebstore.google.com/detail/subfetch-for-youtube/kdhbkkklpmmlcoljjefjbfcldgndebdc" target="_blank"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/subfetch/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
       <h3><img src="https://api.iconify.design/lucide/thumbs-up.svg?color=%2358A6FF" width="24" align="center" /> YouTube Like Shortcut</h3>
-      <p><i>Extensión ligera para valorar vídeos con la tecla "L", trasladando la ergonomía de gestos a la navegación web.</i></p>
-      <a href="https://chromewebstore.google.com/detail/youtube-shorts-like-short/lcpkmnlnllegnfhanjoeeejmnhgpnclm" target="_blank">
-        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
-      </a>
+      <p><i>Da like al vídeo o Short de YouTube que estás viendo con una tecla, como en TikTok. Atajo configurable, en 15 idiomas y sin recoger datos.</i></p>
+      <p><sub>WXT · TypeScript · Web Audio API</sub></p>
+      <a href="https://chromewebstore.google.com/detail/youtube-like-shortcut/lcpkmnlnllegnfhanjoeeejmnhgpnclm" target="_blank"><img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/youtube-like-shortcut/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
     </td>
+    <td width="50%"></td>
   </tr>
+</table>
+
+<br>
+
+<h3 align="center">Escritorio</h3>
+
+<table border="0">
   <tr>
-    <td align="center" width="50%">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/subtitles.svg?color=%2358A6FF" width="24" align="center" /> SubFetch for YouTube™</h3>
-      <p><i>Descarga y carga de subtítulos (.srt/.vtt) en YouTube. Reconstrucción de frases completas, personalización accesible y procesamiento 100% local.</i></p>
-      <a href="https://chromewebstore.google.com/detail/subfetch-for-youtube/kdhbkkklpmmlcoljjefjbfcldgndebdc" target="_blank">
-        <img src="https://img.shields.io/badge/Chrome_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Store"/>
-      </a>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/eye.svg?color=%2358A6FF" width="24" align="center" /> ABR Image Viewer</h3>
+      <p><i>Visor de imágenes para Windows, Linux y el navegador con mosaico configurable: varias imágenes a la vez, cada una con su zoom y su giro. Galería, EXIF y atajos reasignables. Instalador de 2 MB.</i></p>
+      <p><sub>Tauri 2 · Rust · Nuxt 4 · Web Workers</sub></p>
+      <a href="https://imageviewer.abdell.dev/" target="_blank"><img src="https://img.shields.io/badge/Abrir_la_web-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir la web"/></a>
+      &nbsp;
+      <a href="https://github.com/abdell1999/image-viewer-public/releases" target="_blank"><img src="https://img.shields.io/badge/Descargas_Windows_%26_Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Descargas para Windows y Linux"/></a>
+      &nbsp;
+      <a href="https://abdell.dev/proyectos/image-viewer/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
     </td>
-    <td align="center" width="50%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br>
-      <h3><img src="https://api.iconify.design/lucide/briefcase.svg?color=%2358A6FF" width="24" align="center" /> Catálogo Completo de Código Abierto</h3>
-      <p><i>Exploración continua de nuevas herramientas, experimentos y librerías agnósticas.</i></p>
-      <a href="https://github.com/abdell1999?tab=repositories" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_Todos_los_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/>
-      </a>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/git-branch.svg?color=%2358A6FF" width="24" align="center" /> ABRgit <sup><code>en desarrollo</code></sup></h3>
+      <p><i>Cliente de Git de escritorio con grafo de commits y un repositorio por pestaña. Ya hay una primera versión de prueba para Windows y Linux; necesita Git instalado.</i></p>
+      <p><sub>Tauri 2 · Rust · Nuxt · TypeScript · Tailwind CSS</sub></p>
+      <a href="https://github.com/abdell1999/abrgit-public/releases/tag/v0.1.0" target="_blank"><img src="https://img.shields.io/badge/Versi%C3%B3n_de_prueba_0.1.0-E3B341?style=for-the-badge&logo=windows&logoColor=white" alt="Versión de prueba 0.1.0"/></a>
+      <br><br>
     </td>
   </tr>
 </table>
+
+<br>
+
+<h3 align="center">WordPress</h3>
+
+<table border="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3><img src="https://api.iconify.design/lucide/store.svg?color=%2358A6FF" width="24" align="center" /> PokeStore</h3>
+      <p><i>Tema de WordPress y WooCommerce hecho desde cero para tiendas de cartas coleccionables: efecto holográfico, lupa, simulador de apertura de sobres y filtros para coleccionistas. Sin CDNs.</i></p>
+      <p><sub>WordPress · WooCommerce · PHP · Tailwind CSS v4</sub></p>
+      <a href="https://abdell.dev/proyectos/pokestore/" target="_blank"><img src="https://img.shields.io/badge/C%C3%B3mo_est%C3%A1_hecho-00DC82?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cómo está hecho"/></a>
+      <br><br>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <a href="https://abdell.dev/proyectos/" target="_blank"><img src="https://img.shields.io/badge/Todos_los_proyectos-abdell.dev-00DC82?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Todos los proyectos en abdell.dev"/></a>
+  &nbsp;
+  <a href="https://github.com/abdell1999?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/></a>
+</p>
 </details>
 </div>
 
@@ -344,7 +425,7 @@
 <div align="center">
   <p>
     <img src="https://api.iconify.design/lucide/heart-handshake.svg?color=%2358A6FF" width="20" align="center" />
-    &nbsp;<i>Herramientas desarrolladas bajo estándares de <b>privacidad total (local-first, sin telemetría)</b> y <b>código mantenible</b>,<br>diseñadas para resolver necesidades técnicas cotidianas y compartidas abiertamente con la comunidad.</i>
+    &nbsp;<i>Casi todo lo que publico funciona <b>en tu dispositivo, sin cuentas ni telemetría</b>,<br>y lleva tests con Vitest y Playwright.</i>
   </p>
 </div>
 
@@ -364,7 +445,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Abdellah%20Bukad--duh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:contacto@abdell.dev">
+  <a href="mailto:info@abdell.dev">
     <img src="https://img.shields.io/badge/Email-info%40abdell.dev-58A6FF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
